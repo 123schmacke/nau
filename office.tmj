@@ -11,9 +11,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"e",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/m9Uo5XdU71U?si=QbAn4vJEq6cULsBw"
+                 "value":"https:\/\/www.youtube.com\/embed\/m9Uo5XdU71U?si=QbAn4vJEq6cULsBw\""
                 }],
          "type":"imagelayer",
          "visible":false,
