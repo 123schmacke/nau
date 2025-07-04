@@ -9,12 +9,6 @@
          "imagewidth":2016,
          "name":"pallasseum",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/m9Uo5XdU71U?si=QbAn4vJEq6cULsBw\""
-                }],
          "type":"imagelayer",
          "visible":false,
          "x":0,
@@ -132,6 +126,12 @@
          "id":64,
          "name":"was-soll-das",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/m9Uo5XdU71U?si=QbAn4vJEq6cULsBw\""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":63,
